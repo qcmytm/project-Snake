@@ -10,4 +10,5 @@ JS練習Project<br/>
 5.計分系統,吃一果實得一分與統計所有玩家最高分數<br/>
 <br/>
 上架github pages空間<br/>
-<a href="https://qcmytm.github.io/Snake/">貪吃蛇pages</a>
+<a href="https://qcmytm.github.io/project-Snake/">貪吃蛇pages</a><br/>
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/107973729/216776126-2e490928-e8e9-4a92-a17c-7f5c48e17f06.gif)
