@@ -8,7 +8,7 @@ JS練習Project<br/>
 3.蛇可穿牆而過,從映射位置鑽出來<br/>
 4.蛇頭碰觸到身體部分,即陣亡 GAME OVER<br/>
 5.計分系統,吃一果實得一分與統計所有玩家最高分數<br/>
-<br/>
 上架github pages空間<br/>
 <a href="https://qcmytm.github.io/project-Snake/">貪吃蛇pages</a><br/>
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/107973729/216776126-2e490928-e8e9-4a92-a17c-7f5c48e17f06.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/107973729/216776483-31cb9a87-d20d-4bd8-9554-f17fca31a84a.gif)
